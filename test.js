@@ -17444,8 +17444,8 @@ Nhân viên và cấp kiểm soát tiến hành kiểm tra sau vay khách hàng 
         }
     }
     console.log('DONE');
-    // for (let [key, value] of map) {
-    //     console.log(`${key} = ${value}`);
-    // }
+    for (let [key, value] of map) {
+        console.log(`${key} = ${value}`);
+    }
 }
 _initContent();
