@@ -18564,6 +18564,10 @@ mừng bạn đã đạt bài kiểm tra.</p></td></tr></tbody></table></div><fo
                 if ("radio" == answers[j].getAttribute("type") && "checked" == answers[j].getAttribute("checked")) {
                     map.set(question, answers[j].parentNode.getElementsByTagName("label")[0].getElementsByClassName("answernumber")[0].innerHTML);
                 }
+                if ("checkbox" == answers[j].getAttribute("type") && "checked" == answers[j].getAttribute("checked")) {
+                    var sumAnswer = map.get(question);
+                    map.set(question, sumAnswer + ";" +answers[j].parentNode.getElementsByTagName("label")[0].getElementsByClassName("answernumber")[0].innerHTML);
+                }
             }
         }
     }
