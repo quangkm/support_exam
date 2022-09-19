@@ -17430,9 +17430,10 @@ Nhân viên và cấp kiểm soát tiến hành kiểm tra sau vay khách hàng 
 `;
     //filter right answers
     var questionGroups = para.getElementsByClassName("que");
-
+    console.log('QGROUP:' + questionGroups);
     for (var i = 0; i < questionGroups.length; i++) {
         var question = questionGroups[i].getElementsByClassName("qtext")[0].innerHTML;
+        console.log('QUESTION:' + question);
         var resultObject = questionGroups[i].getElementsByClassName("grade")[0].innerHTML;
         if (resultObject.includes("1,00 trên 1,00")) {
             var answers = questionGroups[i].getElementsByTagName("input");
