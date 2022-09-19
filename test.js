@@ -17449,4 +17449,4 @@ Nhân viên và cấp kiểm soát tiến hành kiểm tra sau vay khách hàng 
         console.log(`${key} = ${value}`);
     }
 }
-_initContent();
+// _initContent();
