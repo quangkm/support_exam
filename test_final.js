@@ -6,11 +6,12 @@ function _findAnswer() {
         if (map.get(question)) {
             var answers = questionGroups[i].getElementsByClassName("answer");
             for (var j = 0; j < answers.length; j++) {
-                var answerLabel = answers[j].getElementsByTagName("label");
+                var answerLabel = answers[j].getElementsByClassName("answernumber");
+                var answerContent = answers[j].getElementsByTagName("label");
                 for (var k = 0; k < answerLabel.length; k++) {
-                    if (answerLabel[k].innerHTML.includes(map.get(question))) {
+                    if (map.get(question).includes(answerLabel[k].innerHTML)) {
                         // console.log('ANSWER: ' + answerLabel[k].innerHTML);
-                        answerLabel[k].innerHTML += '(***)';
+                        answerContent[k].innerHTML += '(***)';
                     }
                 }
             }
@@ -18564,9 +18565,15 @@ mừng bạn đã đạt bài kiểm tra.</p></td></tr></tbody></table></div><fo
                 if ("radio" == answers[j].getAttribute("type") && "checked" == answers[j].getAttribute("checked")) {
                     map.set(question, answers[j].parentNode.getElementsByTagName("label")[0].getElementsByClassName("answernumber")[0].innerHTML);
                 }
-                if ("checkbox" == answers[j].getAttribute("type") && "checked" == answers[j].getAttribute("checked")) {
+                else if ("checkbox" == answers[j].getAttribute("type") && "checked" == answers[j].getAttribute("checked")) {
                     var sumAnswer = map.get(question);
-                    map.set(question, sumAnswer + ";" +answers[j].parentNode.getElementsByTagName("label")[0].getElementsByClassName("answernumber")[0].innerHTML);
+                    if(sumAnswer == null || sumAnswer == undefined){
+                        sumAnswer = answers[j].parentNode.getElementsByTagName("label")[0].getElementsByClassName("answernumber")[0].innerHTML;
+                    }else{
+                        sumAnswer += ";" + answers[j].parentNode.getElementsByTagName("label")[0].getElementsByClassName("answernumber")[0].innerHTML;
+                    }
+                    map.set(question, sumAnswer);
+                    console.log("CHECKBOX: " + sumAnswer);
                 }
             }
         }
