@@ -16388,7 +16388,1045 @@ Nhân viên và cấp kiểm soát tiến hành kiểm tra sau vay khách hàng 
 </div><!-- //end #page-b -->
 </div><!-- //end #page -->
 </div>
+<div id="page-outer-16" style="min-height: 228px;">
+<div id="page">
+	<div id="page-a">
+					<div id="top-panel" class="dark1">
+		    	<div class="container-fluid">
+		        	<div class="row">
+		            	<div class="col-md-12">
+		                    		                        <div class="top-info-content">
+		                            <ul class="theme-static-content"><li class="theme-static-item1"><span class="link-replace"><span class="static-icon"><i class="fa fa-life-ring"></i></span><span class="text">learningacademy@vpbank.com.vn</span></span></li><li class="theme-static-item2"><span class="link-replace"><span class="static-icon"><i class="fa fa-phone"></i></span><span class="text">+84 243 7305 6600</span></span></li></ul>		                        </div>
+									                    		                        <ul class="social-list"><li class="li-facebook"><a href="https://www.facebook.com/groups/ChuyenNhaViPi" title="Facebook"><i class="fa fa-facebook"></i></a></li><li class="li-youtube-play"><a href="https://www.youtube.com/channel/UCyRH0SIaaQBPOxsqJfgwkoA" title="Youtube"><i class="fa fa-youtube-play"></i></a></li></ul>		                    									        		</div>
+		 			</div>
+				</div>
+		    </div>
+			    <div id="main-header">
+	        <div class="container-fluid">
+	            <div class="row">
+	                <div class="col-md-12">
+													<div class="main-logo" style="width:220px;">
+	<a href="https://academy.vpbank.com.vn/learning" title="VPBank Learning Academy">
+		<img src="//academy.vpbank.com.vn/learning/pluginfile.php/1/theme_mb2aofk/logo/1652267274/logo.svg" alt="VPBank Learning Academy">
+	</a>
+</div>
+							<div class="menu-bar">
+								<a class="show-menu" href="#"><i class="fa fa-bars"></i></a>
+							</div>
+							<div class="menu-clear clearfix"></div>
+	                    	<div class="mobile-nav">
+								<ul class="main-menu theme-ddmenu" data-animtype="2" data-animspeed="300" data-breakpoint="768"><li class="level-1 home-item"><a href="https://academy.vpbank.com.vn/learning"><i class="fa fa-home"></i><span class="home-text">Trang chủ</span></a></li><li class="level-1 mycourses dropdown"><a href="#" title="Các khoá học của tôi">Các khoá học của tôi <span class="mycourses-num">(7)</span><span class="mobile-arrow"></span></a><ul class="dropdown-list"><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=1009" title="Tư duy kỹ thuật số -...">Tư duy kỹ thuật số -...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=1008" title="Phòng, chống rửa tiền (Áp dụng...">Phòng, chống rửa tiền (Áp dụng...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=980" title="Đào tạo tuân thủ - Năm...">Đào tạo tuân thủ - Năm...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=944" title="Quản trị rủi ro hoạt động...">Quản trị rủi ro hoạt động...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=928" title="Nhận thức trải nghiệm khách hàng...">Nhận thức trải nghiệm khách hàng...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=910" title="Nâng cao nhận thức An ninh...">Nâng cao nhận thức An ninh...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=901" title="Kiến thức về Phòng, chống gian...">Kiến thức về Phòng, chống gian...</a></li></ul></li><li class="level-1 bookmarks-item dropdown"><a href="#"><span class="text">Đánh dấu trang</span><span class="mobile-arrow"></span></a><ul class="theme-bookmarks dropdown-list"><li class="theme-bookmarks-add"><a href="#" class="theme-bookmarks-form" data-url="/mod/quiz/review.php?attempt=687316&amp;cmid=4584" data-mb2bktitle="Tư duy kỹ thuật số - Năm 2022: Bài kiểm tra Tư duy kỹ thuật số - Năm 2022" data-toggle="modal" data-target="#theme-bookmarks-modal">Đánh dấu trang này</a></li></ul></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/course/index.php">Danh mục</a></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/mod/page/view.php?id=1686">Khóa học</a></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/course/index.php?categoryid=35">Thư viện</a></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/mod/page/view.php?id=1707">Liên hệ</a></li><li class="level-1 lang-item dropdown"><a href="#"><span class="lang-fullname">Vietnamese ‎(vi)‎</span><span class="lang-img" style="background-image:url('https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/theme/1652267274/flags/48x32/VI');"></span><span class="mobile-arrow"></span></a><ul class="dropdown-list"><li class=""><a href="https://academy.vpbank.com.vn/learning/mod/quiz/review.php?attempt=687316&amp;cmid=4584&amp;lang=en"><span class="lang-shortname">en</span><span class="lang-fullname">English ‎(en)‎</span><span class="lang-img" style="background-image:url('https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/theme/1652267274/flags/48x32/EN');"></span></a></li><li class="active"><a href="https://academy.vpbank.com.vn/learning/mod/quiz/review.php?attempt=687316&amp;cmid=4584&amp;lang=vi"><span class="lang-shortname">vi</span><span class="lang-fullname">Vietnamese ‎(vi)‎</span><span class="lang-img" style="background-image:url('https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/theme/1652267274/flags/48x32/VI');"></span></a></li></ul></li></ul>							</div>
+							<div class="header-tools" style="margin-top:0.6rem;">
+																<div class="theme-plugins"><div class="pull-right popover-region collapsed">
+    <a id="message-drawer-toggle-6327ec47c6dfc6327ec47bf05f4" class="nav-link d-inline-block popover-region-toggle position-relative" href="#" role="button">
+        <i class="icon fa fa-comment fa-fw " title="Toggle messaging drawer" aria-label="Toggle messaging drawer"></i>
+        <div class="count-container hidden" data-region="count-container" aria-label="There are 0 unread conversations">0</div>
+    </a>
+</div><div class="popover-region collapsed popover-region-notifications" id="nav-notification-popover-container" data-userid="9052" data-region="popover-region">
+    <div class="popover-region-toggle nav-link" data-region="popover-region-toggle" role="button" aria-controls="popover-region-container-6327ec47c77fd6327ec47bf05f5" aria-haspopup="true" aria-label="Show notification window with no new notifications" tabindex="0">
+                <i class="icon fa fa-bell fa-fw " title="Toggle notifications menu" aria-label="Toggle notifications menu"></i>
+        <div class="count-container hidden" data-region="count-container" aria-label="There are 0 unread notifications">0</div>
 
+    </div>
+    <div id="popover-region-container-6327ec47c77fd6327ec47bf05f5" class="popover-region-container" data-region="popover-region-container" aria-expanded="false" aria-hidden="true" aria-label="Notification window" role="region">
+        <div class="popover-region-header-container">
+            <h3 class="popover-region-header-text" data-region="popover-region-header-text">Notifications</h3>
+            <div class="popover-region-header-actions" data-region="popover-region-header-actions">        <a class="mark-all-read-button" href="#" title="Mark all as read" data-action="mark-all-read" role="button">
+            <span class="normal-icon"><i class="icon fa fa-check fa-fw " title="Mark all as read" aria-label="Mark all as read"></i></span>
+            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+        </a>
+        <a href="https://academy.vpbank.com.vn/learning/message/notificationpreferences.php?userid=9052" title="Tùy chọn thông báo">
+            <i class="icon fa fa-cog fa-fw " title="Tùy chọn thông báo" aria-label="Tùy chọn thông báo"></i>
+        </a>
+</div>
+        </div>
+        <div class="popover-region-content-container" data-region="popover-region-content-container">
+            <div class="popover-region-content" data-region="popover-region-content">
+                        <div class="all-notifications" data-region="all-notifications" role="log" aria-busy="false" aria-atomic="false" aria-relevant="additions"></div>
+        <div class="empty-message" tabindex="0" data-region="empty-message">You have no notifications</div>
+
+            </div>
+            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+        </div>
+                <a class="see-all-link" href="https://academy.vpbank.com.vn/learning/message/output/popup/notifications.php">
+                    <div class="popover-region-footer-container">
+                        <div class="popover-region-seeall-text">See all</div>
+                    </div>
+                </a>
+    </div>
+</div></div><a href="#" data-toggle="modal" data-target="#header-search" class="search-btn btn isicon" title="Tìm kiếm"><span class="btn-icon"><i class="fa fa-search"></i></span><span class="text1">Tìm kiếm</span></a><a href="#" data-toggle="modal" data-target="#header-login" class="login-btn btn btn-primary isicon" title="Khổng Minh <span>Quảng</span>"><span class="btn-icon"><i class="fa fa-user"></i></span><span class="text1">Khổng Minh <span>Quảng</span></span></a>							</div>
+	                    	                </div>
+	            </div>
+	        </div>
+	    </div>
+		<div class="mb2notices"></div>				<div id="main-navigation">
+			<div class="main-navigation-inner clearfix">
+		        <div class="container-fluid">
+		            <div class="row">
+		                <div class="col-md-12">
+		                	<ul class="main-menu theme-ddmenu sf-js-enabled" data-animtype="2" data-animspeed="300" data-breakpoint="768" style="touch-action: pan-y;"><li class="level-1 home-item"><a href="https://academy.vpbank.com.vn/learning"><i class="fa fa-home"></i><span class="home-text">Trang chủ</span></a></li><li class="level-1 mycourses dropdown"><a href="#" title="Các khoá học của tôi" class="sf-with-ul">Các khoá học của tôi <span class="mycourses-num">(7)</span><span class="mobile-arrow"></span></a><ul class="dropdown-list" style="display: none;"><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=1009" title="Tư duy kỹ thuật số -...">Tư duy kỹ thuật số -...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=1008" title="Phòng, chống rửa tiền (Áp dụng...">Phòng, chống rửa tiền (Áp dụng...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=980" title="Đào tạo tuân thủ - Năm...">Đào tạo tuân thủ - Năm...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=944" title="Quản trị rủi ro hoạt động...">Quản trị rủi ro hoạt động...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=928" title="Nhận thức trải nghiệm khách hàng...">Nhận thức trải nghiệm khách hàng...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=910" title="Nâng cao nhận thức An ninh...">Nâng cao nhận thức An ninh...</a></li><li class="visible1 student"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=901" title="Kiến thức về Phòng, chống gian...">Kiến thức về Phòng, chống gian...</a></li></ul></li><li class="level-1 bookmarks-item dropdown"><a href="#" class="sf-with-ul"><span class="text">Đánh dấu trang</span><span class="mobile-arrow"></span></a><ul class="theme-bookmarks dropdown-list" style="display: none;"><li class="theme-bookmarks-add"><a href="#" class="theme-bookmarks-form" data-url="/mod/quiz/review.php?attempt=687316&amp;cmid=4584" data-mb2bktitle="Tư duy kỹ thuật số - Năm 2022: Bài kiểm tra Tư duy kỹ thuật số - Năm 2022" data-toggle="modal" data-target="#theme-bookmarks-modal">Đánh dấu trang này</a></li></ul></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/course/index.php">Danh mục</a></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/mod/page/view.php?id=1686">Khóa học</a></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/course/index.php?categoryid=35">Thư viện</a></li><li class="level-1"><a class="" href="https://academy.vpbank.com.vn/learning/mod/page/view.php?id=1707">Liên hệ</a></li><li class="level-1 lang-item dropdown"><a href="#" class="sf-with-ul"><span class="lang-fullname">Vietnamese ‎(vi)‎</span><span class="lang-img" style="background-image:url('https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/theme/1652267274/flags/48x32/VI');"></span><span class="mobile-arrow"></span></a><ul class="dropdown-list" style="display: none;"><li class=""><a href="https://academy.vpbank.com.vn/learning/mod/quiz/review.php?attempt=687316&amp;cmid=4584&amp;lang=en"><span class="lang-shortname">en</span><span class="lang-fullname">English ‎(en)‎</span><span class="lang-img" style="background-image:url('https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/theme/1652267274/flags/48x32/EN');"></span></a></li><li class="active"><a href="https://academy.vpbank.com.vn/learning/mod/quiz/review.php?attempt=687316&amp;cmid=4584&amp;lang=vi"><span class="lang-shortname">vi</span><span class="lang-fullname">Vietnamese ‎(vi)‎</span><span class="lang-img" style="background-image:url('https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/theme/1652267274/flags/48x32/VI');"></span></a></li></ul></li></ul>		                </div>
+		            </div>
+		        </div>
+			</div>
+	    </div>
+	    	</div><!-- //end #page-a -->
+<div id="page-b">
+<div class="theme-banner isimage"><div class="container-fluid"><div class="row"><div class="col-md-12"><div class="banner-inner clearfix"><div class="banner-left"><div class="breadcrumb"><nav role="navigation" aria-label="Vệt mẩu bánh mì">
+    <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a href="https://academy.vpbank.com.vn/learning/">Trang chủ</a>
+                </li>
+                <li class="breadcrumb-item">Các khoá học của tôi</li>
+                <li class="breadcrumb-item">
+                    <a href="https://academy.vpbank.com.vn/learning/course/view.php?id=1009" title="Tư duy kỹ thuật số - Năm 2022">Tư duy kỹ thuật số - Năm 2022</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a href="https://academy.vpbank.com.vn/learning/course/view.php?id=1009#section-0">Nội dung khóa học</a>
+                </li>
+                <li class="breadcrumb-item">
+                    <a href="https://academy.vpbank.com.vn/learning/mod/quiz/view.php?id=4584" aria-current="page" title="Đề thi">Bài kiểm tra Tư duy kỹ thuật số - Năm 2022</a>
+                </li>
+    </ol>
+</nav></div><h1 class="h4"><a href="https://academy.vpbank.com.vn/learning/course/view.php?id=1009">Tư duy kỹ thuật số - Năm 2022</a></h1></div><div class="banner-right"></div></div><div class="banner-bg" style="background-image:url('//academy.vpbank.com.vn/learning/pluginfile.php/1/theme_mb2aofk/bannerimg/1652267274/header.jpg');"></div><div class="banner-bg-color"></div></div></div></div></div><div id="site-menu">
+	<div class="container-fluid">
+    	<div class="row">
+        	<div class="col-md-12" style="min-height:0;">
+            	<ul class="site-menu-list dropdown-list"><li class="item-dashboard"><a class="btn btn-sm isicon" href="https://academy.vpbank.com.vn/learning/my"><span class="btn-icon"><i class="fa fa-tachometer"></i></span><span class="item-text">Trang của tôi</span></a></li><li class="item-frontpage"><a class="btn btn-sm isicon" href="https://academy.vpbank.com.vn/learning/?redirect=0"><span class="btn-icon"><i class="fa fa-home"></i></span><span class="item-text">Trang chủ</span></a></li><li class="item-calendar"><a class="btn btn-sm isicon" href="https://academy.vpbank.com.vn/learning/calendar/view.php?view=month"><span class="btn-icon"><i class="fa fa-calendar"></i></span><span class="item-text">Lịch</span></a></li><li class="item-badges"><a class="btn btn-sm isicon" href="https://academy.vpbank.com.vn/learning/badges/mybadges.php"><span class="btn-icon"><i class="fa fa-bookmark"></i></span><span class="item-text">Huy hiệu</span></a></li><li class="item-courses"><a class="btn btn-sm isicon" href="https://academy.vpbank.com.vn/learning/course/"><span class="btn-icon"><i class="fa fa-book"></i></span><span class="item-text">Danh mục khoá học</span></a></li></ul>
+            </div>
+        </div>
+    </div>
+</div>
+<a href="#" class="show-sitemenu"></a>
+<div class="mb2notices"></div><div id="main-content">
+    <div class="container-fluid">
+        <div class="row">
+     		<div id="region-main" class="content-col col-md-9">
+            	<div id="page-content">
+					<div class="panel-link" data-toggle="modal" data-target="#course-panel"><span class="panel-text">TRANG CỦA TÔI</span><span class="panel-icon"><i class="fa fa-cog"></i></span></div><div class="clearfix"></div>                	<span class="notifications" id="user-notifications"></span>					                	<div role="main"><span id="maincontent"></span><div class="theme-table-wrap"><table class="generaltable generalbox quizreviewsummary table table-striped"><tbody><tr><th class="cell" scope="row">Bắt đầu vào lúc</th><td class="cell">Thứ ba, 13 Tháng chín 2022, 1:52 PM</td></tr><tr><th class="cell" scope="row">Trạng thái</th><td class="cell">Đã kết thúc</td></tr><tr><th class="cell" scope="row">Kết thúc lúc</th><td class="cell">Thứ ba, 13 Tháng chín 2022, 1:54 PM</td></tr><tr><th class="cell" scope="row">Thời gian thực hiện</th><td class="cell">2 phút 7 giây</td></tr><tr><th class="cell" scope="row">Tỷ lệ % điểm</th><td class="cell"><b>8,00</b> out of 10,00 (<b>80</b>%)</td></tr><tr><th class="cell" scope="row">Phản hồi</th><td class="cell"><p>Chúc mừng bạn đã đạt bài kiểm tra.</p><br></td></tr></tbody></table></div><form action="https://academy.vpbank.com.vn/learning/mod/quiz/review.php?attempt=687316&amp;cmid=4584" method="post" class="questionflagsaveform" autocomplete="off" id="yui_3_17_2_1_1663560777556_130"><div><div id="q8" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">1</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_24"><input type="hidden" name="q689828:8_:flagged" value="0"><input type="hidden" value="qaid=16166399&amp;qubaid=689828&amp;qid=2432062&amp;slot=8&amp;checksum=6c4814315ea8f7e190a0e9843ff6d29b&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:8_:flaggedcheckbox" name="q689828:8_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:8_:sequencecheck" value="3"><div class="qtext">Đâu là các mục tiêu mà một doanh nghiệp thường hướng tới khi chuyển đổi số?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:8_answer" disabled="disabled" value="0" id="q689828:8_answer0"><label for="q689828:8_answer0" class="m-l-1"><span class="answernumber">a. </span>Tăng cường lợi thế cạnh tranh</label> </div>
+<div class="r1"><input type="radio" name="q689828:8_answer" disabled="disabled" value="1" id="q689828:8_answer1"><label for="q689828:8_answer1" class="m-l-1"><span class="answernumber">b. </span>Nâng cao trải nghiệm khách hàng</label> </div>
+<div class="r0"><input type="radio" name="q689828:8_answer" disabled="disabled" value="2" id="q689828:8_answer2"><label for="q689828:8_answer2" class="m-l-1"><span class="answernumber">c. </span>Tăng doanh thu</label> </div>
+<div class="r1"><input type="radio" name="q689828:8_answer" disabled="disabled" value="3" id="q689828:8_answer3"><label for="q689828:8_answer3" class="m-l-1"><span class="answernumber">d. </span>Tăng năng suất của nhân viên</label> </div>
+<div class="r0"><input type="radio" name="q689828:8_answer" disabled="disabled" value="4" id="q689828:8_answer4" checked="checked"><label for="q689828:8_answer4" class="m-l-1"><span class="answernumber">e. </span>Tất cả các đáp án trên</label> </div>
+</div></div></div></div></div><div id="q5" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">2</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_33"><input type="hidden" name="q689828:5_:flagged" value="0"><input type="hidden" value="qaid=16166396&amp;qubaid=689828&amp;qid=2432066&amp;slot=5&amp;checksum=db47e1a02ffab40d8481811f5b59efa9&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:5_:flaggedcheckbox" name="q689828:5_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:5_:sequencecheck" value="3"><div class="qtext">Đâu là nhận định đúng về việc máy móc thay thế nhân lực?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:5_answer" disabled="disabled" value="0" id="q689828:5_answer0"><label for="q689828:5_answer0" class="m-l-1"><span class="answernumber">a. </span>Máy móc, công nghệ là không cần thiết vì không thể thay thế con người</label> </div>
+<div class="r1"><input type="radio" name="q689828:5_answer" disabled="disabled" value="1" id="q689828:5_answer1"><label for="q689828:5_answer1" class="m-l-1"><span class="answernumber">b. </span>Máy móc với những công nghệ hiện đại sẽ hoàn toàn thay thế con người trong tương lai</label> </div>
+<div class="r0"><input type="radio" name="q689828:5_answer" disabled="disabled" value="2" id="q689828:5_answer2" checked="checked"><label for="q689828:5_answer2" class="m-l-1"><span class="answernumber">c. </span>Yếu tố con người và công nghệ cần phát triển song hành với nhau</label> </div>
+</div></div></div></div></div><div id="q2" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">3</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_42"><input type="hidden" name="q689828:2_:flagged" value="0"><input type="hidden" value="qaid=16166393&amp;qubaid=689828&amp;qid=2432067&amp;slot=2&amp;checksum=ddca277ea91a5dbfe61c437df5c67e02&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:2_:flaggedcheckbox" name="q689828:2_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:2_:sequencecheck" value="3"><div class="qtext">Nguyên nhân chính dẫn tới việc 1 doanh nghiệp cần chuyển đổi số?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:2_answer" disabled="disabled" value="0" id="q689828:2_answer0"><label for="q689828:2_answer0" class="m-l-1"><span class="answernumber">a. </span>Yêu cầu, tư vấn của các công ty tư vấn</label> </div>
+<div class="r1"><input type="radio" name="q689828:2_answer" disabled="disabled" value="1" id="q689828:2_answer1"><label for="q689828:2_answer1" class="m-l-1"><span class="answernumber">b. </span>Yêu cầu của cơ quan pháp luật</label> </div>
+<div class="r0"><input type="radio" name="q689828:2_answer" disabled="disabled" value="2" id="q689828:2_answer2"><label for="q689828:2_answer2" class="m-l-1"><span class="answernumber">c. </span>Yêu cầu của ban lãnh đạo doanh nghiệp</label> </div>
+<div class="r1"><input type="radio" name="q689828:2_answer" disabled="disabled" value="3" id="q689828:2_answer3" checked="checked"><label for="q689828:2_answer3" class="m-l-1"><span class="answernumber">d. </span>Theo sự chuyển đổi từ nhu cầu của khách hàng và thị trường</label> </div>
+</div></div></div></div></div><div id="q3" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">4</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_51"><input type="hidden" name="q689828:3_:flagged" value="0"><input type="hidden" value="qaid=16166394&amp;qubaid=689828&amp;qid=2432061&amp;slot=3&amp;checksum=d99e5f9536fc3fbf2fb9f67ca4804398&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:3_:flaggedcheckbox" name="q689828:3_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:3_:sequencecheck" value="3"><div class="qtext">Đâu là nhận định đúng về số hóa và chuyển đổi số?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:3_answer" disabled="disabled" value="0" id="q689828:3_answer0"><label for="q689828:3_answer0" class="m-l-1"><span class="answernumber">a. </span>Đây là 2 khái niệm giống nhau</label> </div>
+<div class="r1"><input type="radio" name="q689828:3_answer" disabled="disabled" value="1" id="q689828:3_answer1"><label for="q689828:3_answer1" class="m-l-1"><span class="answernumber">b. </span>Chuyển đổi số là 1 phần trong quá trình số hóa</label> </div>
+<div class="r0"><input type="radio" name="q689828:3_answer" disabled="disabled" value="2" id="q689828:3_answer2" checked="checked"><label for="q689828:3_answer2" class="m-l-1"><span class="answernumber">c. </span>Số hóa là 1 phần trong quá trình chuyển đổi số</label> </div>
+<div class="r1"><input type="radio" name="q689828:3_answer" disabled="disabled" value="3" id="q689828:3_answer3"><label for="q689828:3_answer3" class="m-l-1"><span class="answernumber">d. </span>Đây là 2 khái niệm không liên quan tới nhau.</label> </div>
+</div></div></div></div></div><div id="q1" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">5</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 0,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_60"><input type="hidden" name="q689828:1_:flagged" value="0"><input type="hidden" value="qaid=16166392&amp;qubaid=689828&amp;qid=2432060&amp;slot=1&amp;checksum=34d99e593118125d172b26c8514435b9&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:1_:flaggedcheckbox" name="q689828:1_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:1_:sequencecheck" value="3"><div class="qtext">Đâu là những đột phá, cái tiến lớn trong cách mạng công nghiệp lần thứ 4?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:1_answer" disabled="disabled" value="0" id="q689828:1_answer0"><label for="q689828:1_answer0" class="m-l-1"><span class="answernumber">a. </span>Động cơ hơi nước và sản xuất cơ khí</label> </div>
+<div class="r1"><input type="radio" name="q689828:1_answer" disabled="disabled" value="1" id="q689828:1_answer1"><label for="q689828:1_answer1" class="m-l-1"><span class="answernumber">b. </span>Điện lực và dây chuyền sản xuất hàng loạt</label> </div>
+<div class="r0"><input type="radio" name="q689828:1_answer" disabled="disabled" value="2" id="q689828:1_answer2" checked="checked"><label for="q689828:1_answer2" class="m-l-1"><span class="answernumber">c. </span>Điện tử, máy tính, internet</label> </div>
+<div class="r1"><input type="radio" name="q689828:1_answer" disabled="disabled" value="3" id="q689828:1_answer3"><label for="q689828:1_answer3" class="m-l-1"><span class="answernumber">d. </span>Không có lựa chọn nào chính xác</label> </div>
+</div></div></div></div></div><div id="q7" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">6</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_69"><input type="hidden" name="q689828:7_:flagged" value="0"><input type="hidden" value="qaid=16166398&amp;qubaid=689828&amp;qid=2432065&amp;slot=7&amp;checksum=36cf22ef78ef68bfe30918e8011056f1&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:7_:flaggedcheckbox" name="q689828:7_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:7_:sequencecheck" value="3"><div class="qtext">Mỗi cá nhân có thể chuẩn bị gì để sẵn sàng cho việc chuyển đổi số của doanh nghiệp?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:7_answer" disabled="disabled" value="0" id="q689828:7_answer0"><label for="q689828:7_answer0" class="m-l-1"><span class="answernumber">a. </span>Kỹ năng mềm</label> </div>
+<div class="r1"><input type="radio" name="q689828:7_answer" disabled="disabled" value="1" id="q689828:7_answer1"><label for="q689828:7_answer1" class="m-l-1"><span class="answernumber">b. </span>Kiến thức, khả năng sử dụng công nghệ</label> </div>
+<div class="r0"><input type="radio" name="q689828:7_answer" disabled="disabled" value="2" id="q689828:7_answer2"><label for="q689828:7_answer2" class="m-l-1"><span class="answernumber">c. </span>Thái độ sẵn sàng thay đổi và tư duy đổi mới, sáng tạo</label> </div>
+<div class="r1"><input type="radio" name="q689828:7_answer" disabled="disabled" value="3" id="q689828:7_answer3" checked="checked"><label for="q689828:7_answer3" class="m-l-1"><span class="answernumber">d. </span>Tất cả các đáp án trên</label> </div>
+</div></div></div></div></div><div id="q6" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">7</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_78"><input type="hidden" name="q689828:6_:flagged" value="0"><input type="hidden" value="qaid=16166397&amp;qubaid=689828&amp;qid=2432068&amp;slot=6&amp;checksum=3850099920f70fe551abe7544048bb38&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:6_:flaggedcheckbox" name="q689828:6_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:6_:sequencecheck" value="3"><div class="qtext">Chuyển đổi số mang lại lợi ích cho những lĩnh vực nào</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:6_answer" disabled="disabled" value="0" id="q689828:6_answer0"><label for="q689828:6_answer0" class="m-l-1"><span class="answernumber">a. </span>Công việc</label> </div>
+<div class="r1"><input type="radio" name="q689828:6_answer" disabled="disabled" value="1" id="q689828:6_answer1"><label for="q689828:6_answer1" class="m-l-1"><span class="answernumber">b. </span>Cuộc sống</label> </div>
+<div class="r0"><input type="radio" name="q689828:6_answer" disabled="disabled" value="2" id="q689828:6_answer2"><label for="q689828:6_answer2" class="m-l-1"><span class="answernumber">c. </span>Khoa học</label> </div>
+<div class="r1"><input type="radio" name="q689828:6_answer" disabled="disabled" value="3" id="q689828:6_answer3"><label for="q689828:6_answer3" class="m-l-1"><span class="answernumber">d. </span>Nghệ thuật</label> </div>
+<div class="r0"><input type="radio" name="q689828:6_answer" disabled="disabled" value="4" id="q689828:6_answer4" checked="checked"><label for="q689828:6_answer4" class="m-l-1"><span class="answernumber">e. </span>Tất cả các đáp án trên</label> </div>
+</div></div></div></div></div><div id="q10" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">8</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_87"><input type="hidden" name="q689828:10_:flagged" value="0"><input type="hidden" value="qaid=16166401&amp;qubaid=689828&amp;qid=2432059&amp;slot=10&amp;checksum=7ad936eff47685e817e9895466d005fe&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:10_:flaggedcheckbox" name="q689828:10_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:10_:sequencecheck" value="3"><div class="qtext">Đâu là những công nghệ nổi bật trong cuộc cách mạng công nghiệp lần thứ 4?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:10_answer" disabled="disabled" value="0" id="q689828:10_answer0"><label for="q689828:10_answer0" class="m-l-1"><span class="answernumber">a. </span>Điện toán đám mây</label> </div>
+<div class="r1"><input type="radio" name="q689828:10_answer" disabled="disabled" value="1" id="q689828:10_answer1"><label for="q689828:10_answer1" class="m-l-1"><span class="answernumber">b. </span>Dữ liệu lớn</label> </div>
+<div class="r0"><input type="radio" name="q689828:10_answer" disabled="disabled" value="2" id="q689828:10_answer2"><label for="q689828:10_answer2" class="m-l-1"><span class="answernumber">c. </span>Trí tuệ nhân tạo</label> </div>
+<div class="r1"><input type="radio" name="q689828:10_answer" disabled="disabled" value="3" id="q689828:10_answer3"><label for="q689828:10_answer3" class="m-l-1"><span class="answernumber">d. </span>Blockchain</label> </div>
+<div class="r0"><input type="radio" name="q689828:10_answer" disabled="disabled" value="4" id="q689828:10_answer4" checked="checked"><label for="q689828:10_answer4" class="m-l-1"><span class="answernumber">e. </span>Tất cả các đáp án trên</label> </div>
+</div></div></div></div></div><div id="q4" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">9</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 1,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_96"><input type="hidden" name="q689828:4_:flagged" value="0"><input type="hidden" value="qaid=16166395&amp;qubaid=689828&amp;qid=2432063&amp;slot=4&amp;checksum=5f33fa0adbaa4cafaf19a715326dbcf2&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:4_:flaggedcheckbox" name="q689828:4_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:4_:sequencecheck" value="3"><div class="qtext">Đâu là tác hại của công nghệ đối với hoạt động của ngân hàng?</div><div class="ablock"><div class="prompt">Chọn nhiều đáp án:</div><div class="answer"><div class="r0"><input type="checkbox" name="q689828:4_choice0" disabled="disabled" value="1" id="q689828:4_choice0" checked="checked"><label for="q689828:4_choice0" class="m-l-1"><span class="answernumber">a. </span>Các đối tượng xấu lợi dụng công nghệ tấn công, gây ảnh hưởng tới hoạt động ngân hàng</label> </div>
+<div class="r1"><input type="checkbox" name="q689828:4_choice1" disabled="disabled" value="1" id="q689828:4_choice1" checked="checked"><label for="q689828:4_choice1" class="m-l-1"><span class="answernumber">b. </span>Rủi ro công nghệ: Quy trình &amp; con người – Vận hành &amp; sử dụng</label> </div>
+<div class="r0"><input type="checkbox" name="q689828:4_choice2" disabled="disabled" value="1" id="q689828:4_choice2"><label for="q689828:4_choice2" class="m-l-1"><span class="answernumber">c. </span>Giảm cơ hội việc làm do máy móc thay thế</label> </div>
+</div></div></div></div></div><div id="q9" class="que multichoice deferredfeedback complete"><div class="info"><h3 class="no">Câu hỏi <span class="qno">10</span></h3><div class="state">Hoàn thành</div><div class="grade">Đạt điểm 0,00 trên 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1663560777556_105"><input type="hidden" name="q689828:9_:flagged" value="0"><input type="hidden" value="qaid=16166400&amp;qubaid=689828&amp;qid=2432064&amp;slot=9&amp;checksum=419ddebea78e091c9dcf8304274da2aa&amp;sesskey=MhLAFsr3RB&amp;newstate=" class="questionflagpostdata">
+<input type="hidden" class="questionflagvalue" id="q689828:9_:flaggedcheckbox" name="q689828:9_:flagged" value="0"><input type="image" class="questionflagimage" src="https://academy.vpbank.com.vn/learning/theme/image.php/mb2aofk/core/1652267274/i/unflagged" title="Đánh cờ câu hỏi này để tham khảo sau" alt="Không gắn cờ"><span class="questionflagtext" title="Đánh cờ câu hỏi này để tham khảo sau">Đặt cờ</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Đoạn văn câu hỏi</h4><input type="hidden" name="q689828:9_:sequencecheck" value="3"><div class="qtext">Đâu được coi là yếu tố quan trọng hàng đầu tạo nên sự thành công của doanh nghiệp trong chuyển đổi số?</div><div class="ablock"><div class="prompt">Chọn một đáp án:</div><div class="answer"><div class="r0"><input type="radio" name="q689828:9_answer" disabled="disabled" value="0" id="q689828:9_answer0"><label for="q689828:9_answer0" class="m-l-1"><span class="answernumber">a. </span>Tài chính</label> </div>
+<div class="r1"><input type="radio" name="q689828:9_answer" disabled="disabled" value="1" id="q689828:9_answer1"><label for="q689828:9_answer1" class="m-l-1"><span class="answernumber">b. </span>Quyết tâm của lãnh đạo cùng đội ngũ quản lý</label> </div>
+<div class="r0"><input type="radio" name="q689828:9_answer" disabled="disabled" value="2" id="q689828:9_answer2"><label for="q689828:9_answer2" class="m-l-1"><span class="answernumber">c. </span>Loại công nghệ sử dụng</label> </div>
+<div class="r1"><input type="radio" name="q689828:9_answer" disabled="disabled" value="3" id="q689828:9_answer3" checked="checked"><label for="q689828:9_answer3" class="m-l-1"><span class="answernumber">d. </span>Đội ngũ triển khai chuyển đổi</label> </div>
+</div></div></div></div></div><input type="hidden" name="sesskey" value="MhLAFsr3RB"><div class="submitbtns"></div></div></form><div class="submitbtns"><a class="mod_quiz-next-nav" href="https://academy.vpbank.com.vn/learning/mod/quiz/view.php?id=4584">Kết thúc quá trình xem lại</a></div></div>                                        <div class="m-t-2 m-b-1 activity-navigation activity-nav">
+<div class="row">
+    <div class="col-md-4">        <div class="pull-left">
+                <a href="https://academy.vpbank.com.vn/learning/mod/scorm/view.php?id=4586&amp;forceview=1" id="prev-activity-link" class="btn btn-link" title="Bài học Tư duy kỹ thuật số - Năm 2022">◀︎ Bài học Tư duy kỹ thuật số - Năm 2022</a>
+
+        </div>
+</div>
+    <div class="col-md-4">        <div class="mdl-align">
+            <div class="urlselect">
+    <form method="post" action="https://academy.vpbank.com.vn/learning/course/jumpto.php" class="form-inline" id="url_select_f6327ec47bf05f6">
+        <input type="hidden" name="sesskey" value="MhLAFsr3RB">
+            <label for="jump-to-activity" class="sr-only">
+                Chuyển tới...
+            </label>
+        <select id="jump-to-activity" class="custom-select urlselect" name="jump">
+                    <option value="" selected="">Chuyển tới...</option>
+                    <option value="/mod/page/view.php?id=4588&amp;forceview=1">GIỚI THIỆU KHÓA HỌC</option>
+                    <option value="/mod/scorm/view.php?id=4586&amp;forceview=1">Bài học Tư duy kỹ thuật số - Năm 2022</option>
+                    <option value="/mod/certificate/view.php?id=4587&amp;forceview=1">Chứng nhận đào tạo Tư duy kỹ thuật số - Năm 2022</option>
+        </select>
+            <noscript>
+                <input type="submit" class="btn btn-secondary" value="Xem">
+            </noscript>
+    </form>
+</div>
+
+        </div>
+</div>
+    <div class="col-md-4">        <div class="pull-right">
+                <a href="https://academy.vpbank.com.vn/learning/mod/certificate/view.php?id=4587&amp;forceview=1" id="next-activity-link" class="btn btn-link" title="Chứng nhận đào tạo Tư duy kỹ thuật số - Năm 2022">Chứng nhận đào tạo Tư duy kỹ thuật số - Năm 2022 ▶︎</a>
+
+        </div>
+</div>
+</div>
+</div>                	                </div>
+       		</div>
+                            <div class="sidebar-col col-md-3">
+                <aside id="block-region-side-pre" class="side-pre style-default block-region" data-blockregion="side-pre" data-droptarget="1"><a href="#sb-1" class="sr-only sr-only-focusable">Bỏ qua &lt;span id="mod_quiz_navblock_title"&gt;Bảng câu hỏi&lt;/span&gt;</a>
+
+<section id="mod_quiz_navblock" class=" block block_fake  card mb-3" role="navigation" data-block="_fake" aria-labelledby="instance-0-header">
+
+    <div class="card-body p-3">
+
+            <h5 id="instance-0-header" class="card-title d-inline"><span id="mod_quiz_navblock_title">Bảng câu hỏi</span></h5>
+
+
+        <div class="card-text content mt-3">
+            <div class="qn_buttons clearfix allquestionsononepage"><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton8" title="Hoàn thành" data-quiz-page="0" href="#"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>1<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton5" title="Hoàn thành" data-quiz-page="0" href="#q5"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>2<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton2" title="Hoàn thành" data-quiz-page="0" href="#q2"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>3<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton3" title="Hoàn thành" data-quiz-page="0" href="#q3"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>4<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton1" title="Hoàn thành" data-quiz-page="0" href="#q1"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>5<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton7" title="Hoàn thành" data-quiz-page="0" href="#q7"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>6<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton6" title="Hoàn thành" data-quiz-page="0" href="#q6"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>7<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton10" title="Hoàn thành" data-quiz-page="0" href="#q10"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>8<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton4" title="Hoàn thành" data-quiz-page="0" href="#q4"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>9<span class="accesshide"> Trang này <span class="flagstate"></span></span></a><a class="qnbutton complete free btn btn-secondary thispage" id="quiznavbutton9" title="Hoàn thành" data-quiz-page="0" href="#q9"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Question </span>10<span class="accesshide"> Trang này <span class="flagstate"></span></span></a></div><div class="othernav"><a class="mod_quiz-next-nav" href="https://academy.vpbank.com.vn/learning/mod/quiz/view.php?id=4584">Kết thúc quá trình xem lại</a></div>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-1"></span></aside>                </div>
+                	</div>
+	</div>
+</div>
+<div id="message-drawer-6327ec47cfd3a6327ec47bf05f7" class="message-drawer mb2-message-drawer message-app drawer bg-light hidden" aria-expanded="false" aria-hidden="true" data-region="message-drawer" role="region">
+    <div class="drawer-top">
+        <a id="message-drawer-close-6327ec47cfd3a6327ec47bf05f7" class="" href="#">
+            <i class="icon fa fa-window-close fa-fw " title="Toggle messaging drawer" aria-label="Toggle messaging drawer"></i>
+        </a>
+    </div>
+    <div class="header-container position-relative" data-region="header-container">
+        <div class="hidden border-bottom px-2 py-3" aria-hidden="true" data-region="view-contacts">
+            <div class="d-flex align-items-center">
+                <div class="align-self-stretch">
+                    <a class="h-100 d-flex align-items-center mr-2" href="#" data-route-back="" role="button">
+                        <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                        <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>                    </a>
+                </div>
+                <div>
+                    Liên lạc
+                </div>
+                <div class="ml-auto">
+                    <a href="#" data-route="view-search" role="button" aria-label="Tìm kiếm">
+                        <i class="icon fa fa-search fa-fw " aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+        </div>        
+        <div class="hidden bg-white position-relative border-bottom px-2 py-2" aria-hidden="true" data-region="view-conversation">
+            <div class="hidden" data-region="header-content"></div>
+            <div class="hidden" data-region="header-edit-mode">
+                
+                <div class="d-flex p-2 align-items-center">
+                    Messages selected:
+                    <span class="ml-1" data-region="message-selected-court">1</span>
+                    <button type="button" class="ml-auto close" aria-label="Cancel message selection" data-action="cancel-edit-mode">
+                            <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+            </div>
+            <div data-region="header-placeholder">
+                <div class="d-flex">
+                    <div class="align-self-stretch">
+                        <a class="h-100 mr-2 d-flex align-items-center" href="#" data-route-back="" role="button">
+                            <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                            <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>                        </a>
+                    </div>
+                    <div class="ml-2 rounded-circle bg-pulse-grey align-self-center" style="height: 38px; width: 38px">
+                    </div>
+                    <div class="ml-2 " style="flex: 1">
+                        <div class="mt-1 bg-pulse-grey w-75" style="height: 16px;">
+                        </div>
+                    </div>
+                    <div class="ml-2 bg-pulse-grey align-self-center" style="height: 16px; width: 20px">
+                    </div>
+                </div>
+            </div>
+            <div class="hidden position-absolute" data-region="confirm-dialogue-container" style="top: 0; bottom: -1px; right: 0; left: 0; background: rgba(0,0,0,0.3);"></div>
+        </div>        <div class="border-bottom px-2 py-3" aria-hidden="false" data-region="view-overview">
+            <div class="d-flex align-items-center">
+                <div class="input-group">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text pr-0 bg-white">
+                            <i class="icon fa fa-search fa-fw " aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <input type="text" class="form-control border-left-0" placeholder="Tìm kiếm" aria-label="Tìm kiếm" data-region="view-overview-search-input">
+                </div>
+                <div class="ml-2">
+                    <a href="#" data-route="view-settings" data-route-param="9052" aria-label="Cài đặt" role="button">
+                        <i class="icon fa fa-cog fa-fw " aria-hidden="true"></i>
+                    </a>
+                </div>
+            </div>
+            <div class="text-right mt-3">
+                <a href="#" data-route="view-contacts" role="button">
+                    <i class="icon fa fa-user fa-fw " aria-hidden="true"></i>
+                    Liên lạc
+                    <span class="badge bg-primary ml-2 hidden" data-region="contact-request-count" aria-label="There are 0 pending contact requests">
+                        0
+                    </span>
+                </a>
+            </div>
+        </div>
+        
+        <div class="hidden border-bottom px-2 py-3 view-search" aria-hidden="true" data-region="view-search">
+            <div class="d-flex align-items-center">
+                <a class="mr-2 align-self-stretch d-flex align-items-center" href="#" data-route-back="" data-action="cancel-search" role="button">
+                    <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                    <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>                </a>
+                <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Tìm kiếm" aria-label="Tìm kiếm" data-region="search-input">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="button" data-action="search" aria-label="Tìm kiếm">
+                            <span data-region="search-icon-container">
+                                <i class="icon fa fa-search fa-fw " aria-hidden="true"></i>
+                            </span>
+                            <span class="hidden" data-region="loading-icon-container">
+                                <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+                            </span>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>        
+        <div class="hidden border-bottom px-2 py-3" aria-hidden="true" data-region="view-settings">
+            <div class="d-flex align-items-center">
+                <div class="align-self-stretch">
+                    <a class="h-100 d-flex mr-2 align-items-center" href="#" data-route-back="" role="button">
+                        <span class="dir-rtl-hide"><i class="icon fa fa-chevron-left fa-fw " aria-hidden="true"></i></span>
+                        <span class="dir-ltr-hide"><i class="icon fa fa-chevron-right fa-fw " aria-hidden="true"></i></span>                    </a>
+                </div>
+                <div>
+                    Thiết lập
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="body-container position-relative" data-region="body-container">
+        
+        <div class="hidden" data-region="view-contact" aria-hidden="true">
+            <div class="p-2 pt-3" data-region="content-container"></div>
+        </div>        <div class="hidden h-100" data-region="view-contacts" aria-hidden="true" data-user-id="9052">
+            <div class="d-flex flex-column h-100">
+                <div class="p-3 border-bottom">
+                    <ul class="nav nav-pills nav-fill" role="tablist">
+                        <li class="nav-item">
+                            <a id="contacts-tab-6327ec47cfd3a6327ec47bf05f7" class="nav-link active" href="#contacts-tab-panel-6327ec47cfd3a6327ec47bf05f7" data-toggle="tab" data-action="show-contacts-section" role="tab" aria-controls="contacts-tab-panel-6327ec47cfd3a6327ec47bf05f7" aria-selected="true">
+                                Liên lạc
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="requests-tab-6327ec47cfd3a6327ec47bf05f7" class="nav-link" href="#requests-tab-panel-6327ec47cfd3a6327ec47bf05f7" data-toggle="tab" data-action="show-requests-section" role="tab" aria-controls="requests-tab-panel-6327ec47cfd3a6327ec47bf05f7" aria-selected="false">
+                                Requests
+                                <span class="badge bg-primary ml-2 hidden" data-region="contact-request-count" aria-label="There are 0 pending contact requests">
+                                    0
+                                </span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="tab-content d-flex flex-column h-100">
+                            <div class="tab-pane fade show active h-100 lazy-load-list" aria-live="polite" data-region="lazy-load-list" data-user-id="9052" id="contacts-tab-panel-6327ec47cfd3a6327ec47bf05f7" data-section="contacts" role="tabpanel" aria-labelledby="contacts-tab-6327ec47cfd3a6327ec47bf05f7">
+        
+            
+            <div class="hidden text-center p-2" data-region="empty-message-container">
+                No contacts
+            </div>
+            <div class="hidden list-group" data-region="content-container">
+                
+            </div>
+            <div class="list-group" data-region="placeholder-container">
+                
+            </div>
+            <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container">
+                <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+            </div>
+        </div>
+        
+                            <div class="tab-pane fade h-100 lazy-load-list" aria-live="polite" data-region="lazy-load-list" data-user-id="9052" id="requests-tab-panel-6327ec47cfd3a6327ec47bf05f7" data-section="requests" role="tabpanel" aria-labelledby="requests-tab-6327ec47cfd3a6327ec47bf05f7">
+        
+            
+            <div class="hidden text-center p-2" data-region="empty-message-container">
+                No contact requests
+            </div>
+            <div class="hidden list-group" data-region="content-container">
+                
+            </div>
+            <div class="list-group" data-region="placeholder-container">
+                
+            </div>
+            <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container">
+                <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+            </div>
+        </div>
+                </div>
+            </div>
+        </div>        
+        <div class="view-conversation hidden h-100" aria-hidden="true" data-region="view-conversation" data-user-id="9052" data-midnight="1663520400" data-message-poll-min="10" data-message-poll-max="120" data-message-poll-after-max="300" style="overflow-y: auto; overflow-x: hidden">
+            <div class="position-relative h-100" data-region="content-container" style="overflow-y: auto; overflow-x: hidden">
+                <div class="content-message-container hidden h-100 px-2 pt-0" data-region="content-message-container" role="log" style="overflow-y: auto; overflow-x: hidden">
+                    <div class="py-3 bg-light sticky-top z-index-1 border-bottom text-center hidden" data-region="contact-request-sent-message-container">
+                        <p class="m-0">Contact request sent</p>
+                        <p class="font-italic font-weight-light" data-region="text"></p>
+                    </div>
+                    <div class="hidden text-center p-3" data-region="more-messages-loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</div>
+                </div>
+                <div class="p-4 w-100 h-100 hidden position-absolute" data-region="confirm-dialogue-container" style="top: 0; background: rgba(0,0,0,0.3);">
+                    
+                    <div class="p-3 bg-white" data-region="confirm-dialogue" role="alert">
+                        <h3 class="h6 hidden" data-region="dialogue-header"></h3>
+                        <p class="text-muted" data-region="dialogue-text"></p>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-block">
+                            <span data-region="dialogue-button-text">Khối</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-unblock">
+                            <span data-region="dialogue-button-text">Unblock</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-remove-contact">
+                            <span data-region="dialogue-button-text">Xoá</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-add-contact">
+                            <span data-region="dialogue-button-text">Thêm</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-delete-selected-messages">
+                            <span data-region="dialogue-button-text">Xoá</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="confirm-delete-conversation">
+                            <span data-region="dialogue-button-text">Xoá</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="request-add-contact">
+                            <span data-region="dialogue-button-text">Send contact request</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-primary btn-block hidden" data-action="accept-contact-request">
+                            <span data-region="dialogue-button-text">Accept and add to contacts</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-secondary btn-block hidden" data-action="decline-contact-request">
+                            <span data-region="dialogue-button-text">Decline</span>
+                            <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        </button>
+                        <button type="button" class="btn btn-secondary btn-block" data-action="cancel-confirm">Huỷ bỏ</button>
+                    </div>
+                </div>
+                <div class="px-2 pb-2 pt-0" data-region="content-placeholder">
+                    <div class="h-100 d-flex flex-column">
+                        <div class="px-2 pb-2 pt-0 bg-light h-100" style="overflow-y: auto">
+                            <div class="mt-4">
+                                <div class="mb-4">
+                                    <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                            </div>                            <div class="mt-4">
+                                <div class="mb-4">
+                                    <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                            </div>                            <div class="mt-4">
+                                <div class="mb-4">
+                                    <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                            </div>                            <div class="mt-4">
+                                <div class="mb-4">
+                                    <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                            </div>                            <div class="mt-4">
+                                <div class="mb-4">
+                                    <div class="mx-auto bg-white" style="height: 25px; width: 100px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                                <div class="d-flex flex-column p-2 bg-white rounded mb-2">
+                                    <div class="d-flex align-items-center mb-2">
+                                        <div class="mr-2">
+                                            <div class="rounded-circle bg-pulse-grey" style="height: 35px; width: 35px"></div>
+                                        </div>
+                                        <div class="mr-4 w-75 bg-pulse-grey" style="height: 16px"></div>
+                                        <div class="ml-auto bg-pulse-grey" style="width: 35px; height: 16px"></div>
+                                    </div>
+                                    <div class="bg-pulse-grey w-100" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-100 mt-2" style="height: 16px"></div>
+                                    <div class="bg-pulse-grey w-75 mt-2" style="height: 16px"></div>
+                                </div>
+                            </div>                        </div>
+                    </div>                </div>
+            </div>
+        </div>
+        
+        <div class="hidden" aria-hidden="true" data-region="view-group-info">
+            <div class="pt-3 h-100 d-flex flex-column" data-region="group-info-content-container" style="overflow-y: auto"></div>
+        </div>        <div class="h-100 view-overview-body" aria-hidden="false" data-region="view-overview" data-user-id="9052">
+            <div id="message-drawer-view-overview-container" class="d-flex flex-column h-100" style="overflow-y: auto">
+                    
+                    
+                    <div class="section border-0 card" data-region="view-overview-favourites">
+                        <div id="view-overview-favourites-toggle" class="card-header p-0" data-region="toggle">
+                            <button class="btn btn-link w-100 text-left p-2 d-flex align-items-center overview-section-toggle collapsed" data-toggle="collapse" data-target="#view-overview-favourites-target" aria-expanded="false" aria-controls="view-overview-favourites-target">
+                                <span class="collapsed-icon-container">
+                                    <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"></i>
+                                </span>
+                                <span class="expanded-icon-container">
+                                    <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"></i>
+                                </span>
+                                <span class="font-weight-bold">Starred</span>
+                                <small class="hidden ml-1" data-region="section-total-count-container" aria-label=" total conversations">
+                                    (<span data-region="section-total-count"></span>)
+                                </small>
+                                <span class="hidden ml-2" data-region="loading-icon-container">
+                                    <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+                                </span>
+                                <span class="hidden badge badge-pill badge-primary ml-auto bg-primary" data-region="section-unread-count">
+                                    
+                                </span>
+                            </button>
+                        </div>
+                                            <div class="collapse border-bottom  lazy-load-list" aria-live="polite" data-region="lazy-load-list" data-user-id="9052" id="view-overview-favourites-target" aria-labelledby="view-overview-favourites-toggle" data-parent="#message-drawer-view-overview-container">
+                    
+                        
+                        <div class="hidden text-center p-2" data-region="empty-message-container">
+                                    <p class="text-muted mt-2">No starred conversations</p>
+
+                        </div>
+                        <div class="hidden list-group" data-region="content-container">
+                            
+                        </div>
+                        <div class="list-group" data-region="placeholder-container">
+                                    <div class="text-center py-2"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</div>
+
+                        </div>
+                        <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container">
+                            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+                        </div>
+                    </div>
+                    </div>
+                    
+                    
+                    <div class="section border-0 card" data-region="view-overview-group-messages">
+                        <div id="view-overview-group-messages-toggle" class="card-header p-0" data-region="toggle">
+                            <button class="btn btn-link w-100 text-left p-2 d-flex align-items-center overview-section-toggle collapsed" data-toggle="collapse" data-target="#view-overview-group-messages-target" aria-expanded="false" aria-controls="view-overview-group-messages-target">
+                                <span class="collapsed-icon-container">
+                                    <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"></i>
+                                </span>
+                                <span class="expanded-icon-container">
+                                    <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"></i>
+                                </span>
+                                <span class="font-weight-bold">Group</span>
+                                <small class="hidden ml-1" data-region="section-total-count-container" aria-label=" total conversations">
+                                    (<span data-region="section-total-count"></span>)
+                                </small>
+                                <span class="hidden ml-2" data-region="loading-icon-container">
+                                    <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+                                </span>
+                                <span class="hidden badge badge-pill badge-primary ml-auto bg-primary" data-region="section-unread-count">
+                                    
+                                </span>
+                            </button>
+                        </div>
+                                            <div class="collapse border-bottom  lazy-load-list" aria-live="polite" data-region="lazy-load-list" data-user-id="9052" id="view-overview-group-messages-target" aria-labelledby="view-overview-group-messages-toggle" data-parent="#message-drawer-view-overview-container">
+                    
+                        
+                        <div class="hidden text-center p-2" data-region="empty-message-container">
+                                    <p class="text-muted mt-2">No group conversations</p>
+
+                        </div>
+                        <div class="hidden list-group" data-region="content-container">
+                            
+                        </div>
+                        <div class="list-group" data-region="placeholder-container">
+                                    <div class="text-center py-2"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</div>
+
+                        </div>
+                        <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container">
+                            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+                        </div>
+                    </div>
+                    </div>
+                    
+                    
+                    <div class="section border-0 card" data-region="view-overview-messages">
+                        <div id="view-overview-messages-toggle" class="card-header p-0" data-region="toggle">
+                            <button class="btn btn-link w-100 text-left p-2 d-flex align-items-center overview-section-toggle collapsed" data-toggle="collapse" data-target="#view-overview-messages-target" aria-expanded="false" aria-controls="view-overview-messages-target">
+                                <span class="collapsed-icon-container">
+                                    <i class="icon fa fa-caret-right fa-fw " aria-hidden="true"></i>
+                                </span>
+                                <span class="expanded-icon-container">
+                                    <i class="icon fa fa-caret-down fa-fw " aria-hidden="true"></i>
+                                </span>
+                                <span class="font-weight-bold">Private</span>
+                                <small class="hidden ml-1" data-region="section-total-count-container" aria-label=" total conversations">
+                                    (<span data-region="section-total-count"></span>)
+                                </small>
+                                <span class="hidden ml-2" data-region="loading-icon-container">
+                                    <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+                                </span>
+                                <span class="hidden badge badge-pill badge-primary ml-auto bg-primary" data-region="section-unread-count">
+                                    
+                                </span>
+                            </button>
+                        </div>
+                                            <div class="collapse border-bottom  lazy-load-list" aria-live="polite" data-region="lazy-load-list" data-user-id="9052" id="view-overview-messages-target" aria-labelledby="view-overview-messages-toggle" data-parent="#message-drawer-view-overview-container">
+                    
+                        
+                        <div class="hidden text-center p-2" data-region="empty-message-container">
+                                    <p class="text-muted mt-2">No private conversations</p>
+
+                        </div>
+                        <div class="hidden list-group" data-region="content-container">
+                            
+                        </div>
+                        <div class="list-group" data-region="placeholder-container">
+                                    <div class="text-center py-2"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</div>
+
+                        </div>
+                        <div class="w-100 text-center p-3 hidden" data-region="loading-icon-container">
+                            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+                        </div>
+                    </div>
+                    </div>
+            </div>
+        </div>
+        
+        <div data-region="view-search" aria-hidden="true" class="h-100 hidden" data-user-id="9052" data-users-offset="0" data-messages-offset="0" style="overflow-y: auto">
+            <div class="hidden" data-region="search-results-container" style="overflow-y: auto">
+                
+                <div class="d-flex flex-column">
+                    <div class="mb-3 bg-white" data-region="all-contacts-container">
+                        <div data-region="contacts-container" class="pt-2">
+                            <h4 class="h6 px-2">Liên lạc</h4>
+                            <div class="list-group" data-region="list"></div>
+                        </div>
+                        <div data-region="non-contacts-container" class="pt-2 border-top">
+                            <h4 class="h6 px-2">Non-contacts</h4>
+                            <div class="list-group" data-region="list"></div>
+                        </div>
+                        <div class="text-right">
+                            <button class="btn btn-link text-primary" data-action="load-more-users">
+                                <span data-region="button-text">Load more</span>
+                                <span data-region="loading-icon-container" class="hidden"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="bg-white" data-region="messages-container">
+                        <h4 class="h6 px-2 pt-2">Tin nhắn</h4>
+                        <div class="list-group" data-region="list"></div>
+                        <div class="text-right">
+                            <button class="btn btn-link text-primary" data-action="load-more-messages">
+                                <span data-region="button-text">Load more</span>
+                                <span data-region="loading-icon-container" class="hidden"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                            </button>
+                        </div>
+                    </div>
+                    <p class="hidden p-3 text-center" data-region="no-results-container">Không có kết quả nào</p>
+                </div>            </div>
+            <div class="hidden" data-region="loading-placeholder">
+                <div class="text-center pt-3 icon-size-4"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</div>
+            </div>
+            <div class="p-3 text-center" data-region="empty-message-container">
+                <p>Tìm người và tin nhắn</p>
+            </div>
+        </div>        
+        <div class="h-100 hidden bg-white" aria-hidden="true" data-region="view-settings">
+            <div class="hidden" data-region="content-container">
+                
+                <div data-region="settings" class="p-3">
+                    <h3 class="h6 font-weight-bold">Privacy</h3>
+                    <p>You can restrict who can message you</p>
+                    <div data-preference="blocknoncontacts" class="mb-3">
+                            <div class="custom-control custom-radio mb-2">
+                                <input type="radio" name="message_blocknoncontacts" class="custom-control-input" id="block-noncontacts-6327ec47cfd3a6327ec47bf05f7-1" value="1">
+                                <label class="custom-control-label ml-2" for="block-noncontacts-6327ec47cfd3a6327ec47bf05f7-1">
+                                    My contacts only
+                                </label>
+                            </div>
+                            <div class="custom-control custom-radio mb-2">
+                                <input type="radio" name="message_blocknoncontacts" class="custom-control-input" id="block-noncontacts-6327ec47cfd3a6327ec47bf05f7-0" value="0">
+                                <label class="custom-control-label ml-2" for="block-noncontacts-6327ec47cfd3a6327ec47bf05f7-0">
+                                    My contacts and anyone in my courses
+                                </label>
+                            </div>
+                    </div>
+                
+                    <div class="hidden" data-region="notification-preference-container">
+                        <h3 class="mb-2 mt-4 h6 font-weight-bold">Tùy chọn thông báo</h3>
+                    </div>
+                
+                    <h3 class="mb-2 mt-4 h6 font-weight-bold">Thông tin chung</h3>
+                    <div data-preference="entertosend">
+                        <span class="switch">
+                            <input type="checkbox" id="enter-to-send-6327ec47cfd3a6327ec47bf05f7">
+                            <label for="enter-to-send-6327ec47cfd3a6327ec47bf05f7">
+                                Use enter to send
+                            </label>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div data-region="placeholder-container">
+                
+                <div class="d-flex flex-column p-3">
+                    <div class="w-25 bg-pulse-grey h6" style="height: 18px"></div>
+                    <div class="w-75 bg-pulse-grey mb-4" style="height: 18px"></div>
+                    <div class="mb-3">
+                        <div class="w-100 d-flex mb-3">
+                            <div class="bg-pulse-grey rounded-circle" style="width: 18px; height: 18px"></div>
+                            <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                        </div>
+                        <div class="w-100 d-flex mb-3">
+                            <div class="bg-pulse-grey rounded-circle" style="width: 18px; height: 18px"></div>
+                            <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                        </div>
+                        <div class="w-100 d-flex mb-3">
+                            <div class="bg-pulse-grey rounded-circle" style="width: 18px; height: 18px"></div>
+                            <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                        </div>
+                    </div>
+                    <div class="w-50 bg-pulse-grey h6 mb-3 mt-2" style="height: 18px"></div>
+                    <div class="mb-4">
+                        <div class="w-100 d-flex mb-2 align-items-center">
+                            <div class="bg-pulse-grey w-25" style="width: 18px; height: 27px"></div>
+                            <div class="bg-pulse-grey w-25 ml-2" style="height: 18px"></div>
+                        </div>
+                        <div class="w-100 d-flex mb-2 align-items-center">
+                            <div class="bg-pulse-grey w-25" style="width: 18px; height: 27px"></div>
+                            <div class="bg-pulse-grey w-25 ml-2" style="height: 18px"></div>
+                        </div>
+                    </div>
+                    <div class="w-25 bg-pulse-grey h6 mb-3 mt-2" style="height: 18px"></div>
+                    <div class="mb-3">
+                        <div class="w-100 d-flex mb-2 align-items-center">
+                            <div class="bg-pulse-grey w-25" style="width: 18px; height: 27px"></div>
+                            <div class="bg-pulse-grey w-50 ml-2" style="height: 18px"></div>
+                        </div>
+                    </div>
+                </div>            </div>
+        </div>    </div>
+    <div class="footer-container position-relative" data-region="footer-container">
+        
+        <div class="hidden border-top bg-white position-relative" aria-hidden="true" data-region="view-conversation" data-enter-to-send="0">
+            <div class="hidden p-2" data-region="content-messages-footer-container">
+                
+                <div class="d-flex mt-1">
+                    <textarea dir="auto" data-region="send-message-txt" class="form-control bg-light" rows="3" data-auto-rows="" data-min-rows="3" data-max-rows="5" role="textbox" aria-label="Write a message..." placeholder="Write a message..." style="resize: none"></textarea>
+                    <button class="btn btn-link btn-icon icon-size-3 ml-1 mt-auto" aria-label="Gửi tin nhắn" data-action="send-message">
+                        <span data-region="send-icon-container"><i class="icon fa fa-paper-plane fa-fw " aria-hidden="true"></i></span>
+                        <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                    </button>
+                </div>
+            </div>
+            <div class="hidden p-2" data-region="content-messages-footer-edit-mode-container">
+                
+                <div class="d-flex p-3 justify-content-end">
+                    <button class="btn btn-link btn-icon my-1 icon-size-4" data-action="delete-selected-messages" data-toggle="tooltip" data-placement="top" title="" data-original-title="Delete selected messages">
+                        <span data-region="icon-container"><i class="icon fa fa-trash fa-fw " aria-hidden="true"></i></span>
+                        <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                        <span class="sr-only">Delete selected messages</span>
+                    </button>
+                </div>            </div>
+            <div class="hidden bg-secondary p-3" data-region="content-messages-footer-require-contact-container">
+                
+                <div class="p-3 bg-white">
+                    <p data-region="title"></p>
+                    <p class="text-muted" data-region="text"></p>
+                    <button type="button" class="btn btn-primary btn-block" data-action="request-add-contact">
+                        <span data-region="dialogue-button-text">Send contact request</span>
+                        <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                    </button>
+                </div>
+            </div>
+            <div class="hidden bg-secondary p-3" data-region="content-messages-footer-require-unblock-container">
+                
+                <div class="p-3 bg-white">
+                    <p class="text-muted" data-region="text">You have blocked this user.</p>
+                    <button type="button" class="btn btn-primary btn-block" data-action="request-unblock">
+                        <span data-region="dialogue-button-text">Unblock user</span>
+                        <span class="hidden" data-region="loading-icon-container"><span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Loading" aria-label="Loading"></i></span>
+</span>
+                    </button>
+                </div>
+            </div>
+            <div class="hidden bg-secondary p-3" data-region="content-messages-footer-unable-to-message">
+                
+                <div class="p-3 bg-white">
+                    <p class="text-muted" data-region="text">You are unable to message this user</p>
+                </div>
+            </div>
+            <div class="p-2" data-region="placeholder-container">
+                <div class="d-flex">
+                    <div class="bg-pulse-grey w-100" style="height: 80px"></div>
+                    <div class="mx-2 mb-2 align-self-end bg-pulse-grey" style="height: 20px; width: 20px"></div>
+                </div>            </div>
+            <div class="hidden position-absolute" data-region="confirm-dialogue-container" style="top: -1px; bottom: 0; right: 0; left: 0; background: rgba(0,0,0,0.3);"></div>
+        </div>    </div>
+</div><div class="mb2notices"></div><div id="bottom-info" class="dark1">
+	</div>
+<footer id="footer" class="dark1">
+	<div class="footer-text-container">
+		<div class="container-fluid">
+	    	<div class="row">
+	        	<div class="col-md-12">
+					<p class="footer-text">
+						<span>
+													Bản quyền © thuộc Ngân hàng TMCP Việt Nam Thịnh Vượng. Học viện VPBank vận hành hệ thống.												</span>
+					</p>
+											<a class="theme-scrolltt" href="#" data-toggle="tooltip" data-trigger="hover" title="" data-original-title="Scroll to top"><span><i class="fa fa-angle-up" data-scrollspeed="400"></i></span></a>						           	</div>
+	        </div>
+	    </div>
+	</div>
+		</footer>
+<div class="footer-logo-wrap">
+	<div class="footer-logo" style="width:150px;">
+		<a href="https://academy.vpbank.com.vn/learning" title="VPBank Learning Academy">
+			<img src="//academy.vpbank.com.vn/learning/pluginfile.php/1/theme_mb2aofk/logofooter/1652267274/logo-trang.png" alt="VPBank Learning Academy">
+		</a>
+	</div>
+</div>
+</div><!-- //end #page-b -->
+</div><!-- //end #page -->
+</div>
 `;
     //filter right answers
     var questionGroups = para.getElementsByClassName("que");
