@@ -1,4 +1,12 @@
-function _findAnswer() {
+<!DOCTYPE html>
+<html>
+
+<head>
+</head>
+<body>
+    <div id="form-area"></div>
+    <script type="text/javascript">
+        function _findAnswer() {
     //filter right answers
     var questionGroups = document.getElementsByClassName("que");
     for (var i = 0; i < questionGroups.length; i++) {
@@ -17430,10 +17438,10 @@ Nhân viên và cấp kiểm soát tiến hành kiểm tra sau vay khách hàng 
 `;
     //filter right answers
     var questionGroups = para.getElementsByClassName("que");
-    // console.log('QGROUP:' + questionGroups);
+    console.log('QGROUP:' + questionGroups);
     for (var i = 0; i < questionGroups.length; i++) {
         var question = questionGroups[i].getElementsByClassName("qtext")[0].innerHTML;
-        // console.log('QUESTION:' + question);
+        console.log('QUESTION:' + question);
         var resultObject = questionGroups[i].getElementsByClassName("grade")[0].innerHTML;
         if (resultObject.includes("1,00 trên 1,00")) {
             var answers = questionGroups[i].getElementsByTagName("input");
@@ -17445,8 +17453,13 @@ Nhân viên và cấp kiểm soát tiến hành kiểm tra sau vay khách hàng 
         }
     }
     console.log('DONE');
-    // for (let [key, value] of map) {
-    //     console.log(`${key} = ${value}`);
-    // }
+    for (let [key, value] of map) {
+        console.log(`${key} = ${value}`);
+    }
 }
 // _initContent();
+
+
+    </script>
+</body>
+</html>
